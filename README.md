@@ -1,18 +1,29 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
+# 😎 Nice to see you.
+
 <p align="center">
   <img src="header.png" alt="Logo do Projeto">
 </p>
 
-<h3>🚀 About me </h3>
+### 🚀 About me
 
 - Brazilian developer currently based in Portugal
 - Fast learner and eager to explore new technologies. Believer in agile software development, team work and Clean Code.
-- I’m currently working as **Scorpion Circle**
+- I’m currently working at **Scorpion Circle**
 - I want to become more proficient in React
 - I use daily: `.php`, `.jsx`, `.html`, `.css`, `.sql`
 
+### 💻 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3>💻 Technologies & Tools</h3>
 
-<h3>Where to find me</h3>
-
+### 🔗 Where to find me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatoluzolv/)
