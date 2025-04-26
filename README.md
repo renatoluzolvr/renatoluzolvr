@@ -7,7 +7,7 @@
 ### 🧑‍💻 About me
 
 - Brazilian developer currently based in Portugal
-- Fast learner and eager to explore new technologies. Believer in agile software development, team work and Clean Code.
+- Always ready to explore new technologies. Believer in agile software development, team work and Clean Code.
 - I’m currently working at **Scorpion Circle**
 - I'm working on becoming more proficient in React
 - I use daily: `.php`, `.jsx`, `.html`, `.css`, `.sql`
