@@ -4,7 +4,7 @@
   <img src="header.png" alt="Logo do Projeto">
 </p>
 
-### 🚀 About me
+### 🧑‍💻 About me
 
 - Brazilian developer currently based in Portugal
 - Fast learner and eager to explore new technologies. Believer in agile software development, team work and Clean Code.
