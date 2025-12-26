@@ -8,7 +8,7 @@
 
 - Brazilian developer currently based in Portugal
 - Always ready to explore new technologies. Believer in agile software development, team work and Clean Code.
-- I’m currently working at **Scorpion Circle**
+- I’m currently working at **Digital Elevation**
 - I'm working on becoming more proficient in React and Laravel
 - I use daily: `.php`, `.jsx`, `.html`, `.css`, `.sql`
 
